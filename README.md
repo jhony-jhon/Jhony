@@ -1,4 +1,4 @@
-# Olá, me chamo João, mas meu apelido e como mais comumente sou chamado é Jhony!
+# Olá, me chamo João, mas meu apelido e como mais comumente sou chamado, é Jhony!
 ## Seja bem-vind@ ao meu perfil GitHub 👋
 
 :books: Atualmente estou estudando Análise e Desenvolvimento de Sistemas na FATEC e fazendo os cursos da Alura <br>
@@ -6,7 +6,16 @@
 
 ### Estou aprendendo: <br>
 
-            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" heigth="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" heigth="50"/><br><br>
+
+## Vamos decolar :rocket: e codar :computer: </>   
+<img src="C:\Users\josh_\Downloads\pk_1696718661095.png" />
+          
+          
+          
+          
+          
+          
           
 
 
