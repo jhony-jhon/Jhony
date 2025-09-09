@@ -2,7 +2,9 @@
           <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl5aGg2ZTE0N2dzNGI2czVrM2VmbXdleXY2czhlNG5rNGlpemNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rMnd7B3BMASboHgVep/giphy.gif" alt="Banner Link" />
 </p>
 
-# 👋 Olá, eu sou o Jhony!
+
+<h1>👋 Olá, eu sou o Jhony!</h1>
+
 
 Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, programação e aprendizado contínuo. Vamos juntos desbravar as possíveis soluções com códigos e frameworks?!
 
@@ -12,16 +14,28 @@ Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, programação e aprendiz
 - 📍 Localização: Brasil
 
 ## 🛠️ Tecnologias e Ferramentas
-- JavaScript | React | Node.js
-- HTML | CSS | Sass
-- Git | GitHub | VS Code
-- MySQL
+
+### Back-End 👨🏻‍💻
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge)
+
+### Front-End 🎨
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+  ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+
+### DataBase 🛢️
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) 
 
 ## 🌱 Atualmente aprendendo
-- React Router
-- Redux
-- Testes automatizados
-- TypeScript
+
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?logo=testing-library&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
 ## 📂 Projetos em destaque
 - [Classificador Nível de Herói](https://github.com/jhony-jhon/desafio-dio-felipao)
@@ -43,7 +57,7 @@ Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, programação e aprendiz
 
 ---
 
-Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+Sinta-se à vontade para explorar meus repositórios e entrar em contato! 🙋‍♂️
           
 ![pk_1696718661095](https://github.com/jhony-jhon/Jhony/assets/109990934/e603c5d4-ca89-40d9-8185-0472312a8bd9) 
 
