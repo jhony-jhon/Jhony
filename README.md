@@ -49,7 +49,8 @@ Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, programação e aprendiz
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jo%C3%A3o-victor-analista-desenvolvedor-linguagem-programacao-junior/)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:joaobatistaok@hotmail.com)
+
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:joaobatistaok@hotmail.com) ➡️ joaobatistaok@hotmail.com
 
 ## ⚡ Curiosidades
 - Gosto de desafios e de aprender coisas novas todos os dias!
