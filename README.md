@@ -47,6 +47,9 @@ Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, programação e aprendiz
 - [API AdoPet](https://github.com/jhony-jhon/API-AdoPet)
 - [VollMed-API](https://github.com/jhony-jhon/VollMed-API---Curso-Spring-Boot-e-Java-Alura)
 
+----------------------
+![Jhony GitHub stats](https://github-readme-stats.vercel.app/api?username=jhony-jhon&show_icons=true&theme=radical)
+
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jo%C3%A3o-victor-analista-desenvolvedor-linguagem-programacao-junior/)
 
