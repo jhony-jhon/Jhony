@@ -49,6 +49,8 @@ Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, programação e aprendiz
 
 ----------------------
 ![Jhony GitHub stats](https://github-readme-stats.vercel.app/api?username=jhony-jhon&show_icons=true&theme=highcontrast)
+--------------------------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhony-jhon&layout=compact&hide_progress=true)](https://github.com/jhony-jhon/github-readme-stats)
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jo%C3%A3o-victor-analista-desenvolvedor-linguagem-programacao-junior/)
