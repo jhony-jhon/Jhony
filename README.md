@@ -1,15 +1,45 @@
-# Olá, me chamo João, mas meu apelido e como mais comumente sou chamado, é Jhony!
-## Seja bem-vind@ ao meu perfil GitHub 👋
+# 👋 Olá, eu sou o Jhony!
 
-:books: Atualmente estou estudando e fazendo os cursos da Alura <br>
-:computer: Buscando cada vez mais me aprofundar em conhecimentos sobre programação e desenvolvimento <br>
+Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, programação e aprendizado contínuo.
 
-### Estou aprendendo: <br>
+## 🚀 Sobre mim
+- 💻 Estudante de desenvolvimento web e mobile
+- 🎓 Cursos na Alura, Dio e outras plataformas
+- 📍 Localização: Brasil
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" heigth="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" heigth="50"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" width="50" height="50" /><br><br>
+## 🛠️ Tecnologias e Ferramentas
+- JavaScript | React | Node.js
+- HTML | CSS | Sass
+- Git | GitHub | VS Code
+- MySQL
 
-## Vamos decolar :rocket: e codar :computer: </>   
+## 🌱 Atualmente aprendendo
+- React Router
+- Redux
+- Testes automatizados
+- TypeScript
 
+## 📂 Projetos em destaque
+- [Classificador Nível de Herói](https://github.com/jhony-jhon/desafio-dio-felipao)
+- [Dragons-Devs](https://github.com/jhony-jhon/Dragons-Devs)
+- [Negociações Control Data](https://github.com/jhony-jhon/negociacoes-control-data)
+- [Serenatto-Cafe](https://github.com/jhony-jhon/serenatto-cafe)
+- [Feed-CodeConnect](https://github.com/jhony-jhon/feed-codeconnect)
+- [Memoteca](https://github.com/jhony-jhon/memoteca)
+- [API AdoPet](https://github.com/jhony-jhon/API-AdoPet)
+- [VollMed-API](https://github.com/jhony-jhon/VollMed-API---Curso-Spring-Boot-e-Java-Alura)
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-analista-desenvolvedor-linguagem-programacao-junior/)
+- Email: joaobatistaok@hotmail.com
+
+## ⚡ Curiosidades
+- Gosto de desafios e de aprender coisas novas todos os dias!
+- Sempre aberto para colaboração e networking.
+
+---
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato!
           
 ![pk_1696718661095](https://github.com/jhony-jhon/Jhony/assets/109990934/e603c5d4-ca89-40d9-8185-0472312a8bd9) 
 
