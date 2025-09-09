@@ -1,6 +1,7 @@
 <p align="center">
           <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl5aGg2ZTE0N2dzNGI2czVrM2VmbXdleXY2czhlNG5rNGlpemNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rMnd7B3BMASboHgVep/giphy.gif" alt="Banner Link" />
 </p>
+
 # 👋 Olá, eu sou o Jhony!
 
 Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, programação e aprendizado contínuo. Vamos juntos desbravar as possíveis soluções com códigos e frameworks?!
